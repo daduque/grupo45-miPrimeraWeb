@@ -3,10 +3,10 @@ El equipo 0 del grupo 45 de misiontic desarolla la primera actividad que es una 
 
 ## Agosto 31
 
-###Inicializar
+### Inicializar
 
 Realicé la creación del repo y del proyecto para el primer sprint
 
-###Primer push
+### Primer push
 
 Realice la conexión de mi repo local con mi repo remoto
